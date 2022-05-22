@@ -1,0 +1,70 @@
+body{
+  text-align: center;
+  font-family: 'Arvo', serif;
+  margin:0px;
+}
+.edu-intro{
+  margin: 0px auto 0px auto;
+  background-image: url("../images/26.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+}
+.toph2
+{
+  font-size: 7rem;
+  font-family: 'Sacramento', cursive;
+  /* color: white; */
+
+  line-height:1.5;
+  padding :0px auto 20px auto;
+  margin:0px auto;
+
+}
+h2{
+  font-size: 1.5rem;
+  font-weight: 1;
+  width:45%;
+  line-height: 2;
+  margin:auto;
+  padding-top:50px;
+
+    color:#66BFBF;
+}
+p{
+  width:50%;
+  margin:auto;
+
+}
+.bottom-container
+{
+  background-color:#66BFBF;
+  padding:50px 0 50px;
+}
+a
+{
+  color:#11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin:10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color:#EAF6F6;
+}
+.foot-end{
+  color:#EAF6F6;
+  font-size: 0.75rem;
+  padding:20px;
+}
+.head{
+  background-color: white;
+  padding:50px;
+  font-size: 2rem;
+}
+.reason{
+  padding-bottom: 50px;
+}
+.footer-link{
+
+  font-weight:bold;
+}
